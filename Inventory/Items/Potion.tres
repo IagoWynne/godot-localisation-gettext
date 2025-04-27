@@ -1,9 +1,8 @@
-[gd_resource type="Resource" script_class="Item" load_steps=2 format=3 uid="uid://qxcnb1m47ecq"]
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://clplhhkhymdxc"]
 
-[ext_resource type="Script" uid="uid://b01lgslbtjr0" path="res://Inventory/Items/Item.cs" id="1_akbo8"]
+[ext_resource type="Script" uid="uid://bewxfrvemyxyi" path="res://Inventory/Items/item.gd" id="1_akbo8"]
 
 [resource]
 script = ExtResource("1_akbo8")
-Name = "ITEM_POTION"
-Traits = PackedStringArray("TRAIT_ALCHEMICAL", "TRAIT_CONSUMABLE")
-metadata/_custom_type_script = "uid://b01lgslbtjr0"
+name = "ITEM_POTION"
+traits = PackedStringArray("TRAIT_ALCHEMICAL", "TRAIT_CONSUMABLE")

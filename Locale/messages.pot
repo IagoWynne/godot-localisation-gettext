@@ -1,6 +1,7 @@
 # LANGUAGE translation for Localisation-gettext for the following files:
 # res://Main.tscn
 # res://Inventory/Inventory.tscn
+# res://Inventory/inventory.gd
 # res://Inventory/Items/Potion.tres
 # res://Inventory/Items/Sword.tres
 # res://Inventory/Items/Warhammer.tres
@@ -94,11 +95,11 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: Bestiary/bestiary.json
-msgid "SIZE_TINY"
+msgid "MONSTER_PIXIE_DESCRIPTION"
 msgstr ""
 
 #: Bestiary/bestiary.json
-msgid "MONSTER_PIXIE_DESCRIPTION"
+msgid "SIZE_TINY"
 msgstr ""
 
 #: Bestiary/bestiary.json
@@ -108,9 +109,9 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: Bestiary/bestiary.json
-msgid "SIZE_HUGE"
+msgid "MONSTER_DRAGON_DESCRIPTION"
 msgstr ""
 
 #: Bestiary/bestiary.json
-msgid "MONSTER_DRAGON_DESCRIPTION"
+msgid "SIZE_HUGE"
 msgstr ""

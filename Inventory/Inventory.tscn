@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://coissnj7gakuw"]
 
-[ext_resource type="Script" uid="uid://c8nw6yhpb740p" path="res://Inventory/Inventory.cs" id="1_u6bbq"]
+[ext_resource type="Script" uid="uid://7b2f5avlc3bl" path="res://Inventory/inventory.gd" id="1_u6bbq"]
 
 [node name="Inventory" type="Control"]
 layout_mode = 3
@@ -42,5 +42,4 @@ text = "INVENTORY_ITEM_QUANTITY"
 
 [node name="TraitsHeaderLabel" type="Label" parent="VBoxContainer/ItemsContainer"]
 layout_mode = 2
-size_flags_horizontal = 3
 text = "INVENTORY_TRAIT_HEADER"

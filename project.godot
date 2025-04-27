@@ -21,9 +21,9 @@ project/assembly_name="New Game Project"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/JsonLocalisation/plugin.cfg", "res://addons/ResourceLocalisation/plugin.cfg")
+enabled=PackedStringArray("res://addons/json_localisation/plugin.cfg", "res://addons/resource_localisation/plugin.cfg")
 
 [internationalization]
 
 locale/translations=PackedStringArray("res://Locale/de.mo", "res://Locale/en.mo", "res://Locale/fr.mo")
-locale/translations_pot_files=PackedStringArray("res://Main.tscn", "res://Inventory/Inventory.tscn", "res://Inventory/Items/Potion.tres", "res://Inventory/Items/Sword.tres", "res://Inventory/Items/Warhammer.tres", "res://Bestiary/bestiary.json")
+locale/translations_pot_files=PackedStringArray("res://Main.tscn", "res://Inventory/Inventory.tscn", "res://Inventory/inventory.gd", "res://Inventory/Items/Potion.tres", "res://Inventory/Items/Sword.tres", "res://Inventory/Items/Warhammer.tres", "res://Bestiary/bestiary.json")

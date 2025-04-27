@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://c72hmgvhfkulh"]
 
-[ext_resource type="Script" uid="uid://bgubv8xwna8s3" path="res://Main.cs" id="1_uu6xs"]
+[ext_resource type="Script" uid="uid://cqt1apl3rmvfe" path="res://main.gd" id="1_uu6xs"]
 [ext_resource type="PackedScene" uid="uid://coissnj7gakuw" path="res://Inventory/Inventory.tscn" id="2_uu6xs"]
 
 [node name="Main" type="Node"]
