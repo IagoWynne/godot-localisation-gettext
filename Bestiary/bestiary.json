@@ -1,0 +1,14 @@
+{
+    "Monsters": [
+        {
+            "Name": "MONSTER_PIXIE",
+            "Description": "MONSTER_PIXIE_DESCRIPTION",
+            "Size": "SIZE_TINY"
+        },
+        {
+            "Name": "MONSTER_DRAGON",
+            "Description": "MONSTER_DRAGON_DESCRIPTION",
+            "Size": "SIZE_HUGE"
+        }
+    ]
+}

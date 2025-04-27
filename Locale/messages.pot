@@ -1,0 +1,116 @@
+# LANGUAGE translation for Localisation-gettext for the following files:
+# res://Main.tscn
+# res://Inventory/Inventory.tscn
+# res://Inventory/Items/Potion.tres
+# res://Inventory/Items/Sword.tres
+# res://Inventory/Items/Warhammer.tres
+# res://Bestiary/bestiary.json
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Localisation-gettext\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#: Main.tscn
+msgid "CHARACTER_SHEET_TITLE"
+msgstr ""
+
+#: Main.tscn
+msgid "CHARACTER_NAME_LABEL"
+msgstr ""
+
+#: Main.tscn
+msgid "SELECT_BUTTON"
+msgstr ""
+
+#: Main.tscn
+msgid "CLOSE_BUTTON"
+msgstr ""
+
+#: Inventory/Inventory.tscn
+msgid "INVENTORY_HEADER_LABEL"
+msgstr ""
+
+#: Inventory/Inventory.tscn
+msgid "INVENTORY_ITEM_HEADER"
+msgstr ""
+
+#: Inventory/Inventory.tscn
+msgid "INVENTORY_ITEM_QUANTITY"
+msgstr ""
+
+#: Inventory/Inventory.tscn
+msgid "INVENTORY_TRAIT_HEADER"
+msgstr ""
+
+#: Inventory/Items/Potion.tres
+msgid "ITEM_POTION"
+msgid_plural "ITEM_POTIONS"
+msgstr[0] ""
+msgstr[1] ""
+
+#: Inventory/Items/Potion.tres
+msgid "TRAIT_ALCHEMICAL"
+msgstr ""
+
+#: Inventory/Items/Potion.tres
+msgid "TRAIT_CONSUMABLE"
+msgstr ""
+
+#: Inventory/Items/Sword.tres
+msgid "ITEM_SWORD"
+msgid_plural "ITEM_SWORDS"
+msgstr[0] ""
+msgstr[1] ""
+
+#: Inventory/Items/Sword.tres
+#: Inventory/Items/Warhammer.tres
+msgid "TRAIT_WEAPON"
+msgstr ""
+
+#: Inventory/Items/Sword.tres
+msgid "TRAIT_SWORD"
+msgstr ""
+
+#: Inventory/Items/Warhammer.tres
+msgid "ITEM_WARHAMMER"
+msgid_plural "ITEM_WARHAMMERS"
+msgstr[0] ""
+msgstr[1] ""
+
+#: Inventory/Items/Warhammer.tres
+msgid "TRAIT_HAMMER"
+msgstr ""
+
+#: Bestiary/bestiary.json
+msgid "MONSTER_PIXIE"
+msgid_plural "MONSTER_PIXIES"
+msgstr[0] ""
+msgstr[1] ""
+
+#: Bestiary/bestiary.json
+msgid "SIZE_TINY"
+msgstr ""
+
+#: Bestiary/bestiary.json
+msgid "MONSTER_PIXIE_DESCRIPTION"
+msgstr ""
+
+#: Bestiary/bestiary.json
+msgid "MONSTER_DRAGON"
+msgid_plural "MONSTER_DRAGONS"
+msgstr[0] ""
+msgstr[1] ""
+
+#: Bestiary/bestiary.json
+msgid "SIZE_HUGE"
+msgstr ""
+
+#: Bestiary/bestiary.json
+msgid "MONSTER_DRAGON_DESCRIPTION"
+msgstr ""
